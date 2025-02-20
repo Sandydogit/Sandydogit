@@ -8,7 +8,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC00?style=flat&logo=huggingface&logoColor=white)
 
 ---
 
